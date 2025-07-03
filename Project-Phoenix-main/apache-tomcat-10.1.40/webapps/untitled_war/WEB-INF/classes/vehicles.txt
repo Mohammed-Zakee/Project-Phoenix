@@ -1,0 +1,10 @@
+V001,Toyota Camry,50.0,false,Sedan
+V002,Ford Explorer,70.0,true,SUV
+V003,Chevrolet Corvette,120.0,false,Sports
+V004,Dodge Ram 1500,85.0,true,Truck
+V005,Honda Civic,45.0,false,Sedan
+V006,Jeep Wrangler,75.0,false,SUV
+V007,Porsche 911,150.0,true,Sports
+V008,Ford F-150,90.0,true,Truck
+V009,Hyundai Tucson,65.0,true,SUV
+V010,Mazda MX-5,100.0,true,Sports

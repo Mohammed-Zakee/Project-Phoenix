@@ -1,0 +1,10 @@
+V001,Toyota Camry,50.00,true,Sedan
+V002,Ford Explorer,70.00,true,SUV
+V003,Chevrolet Corvette,120.00,false,Sports
+V004,Dodge Ram 1500,85.00,true,Truck
+V005,Honda Civic,45.00,true,Sedan
+V006,Jeep Wrangler,75.00,false,SUV
+V007,Porsche 911,150.00,true,Sports
+V008,Ford F-150,90.00,true,Truck
+V009,Hyundai Tucson,65.00,true,SUV
+V010,Mazda MX-5,100.00,true,Sports

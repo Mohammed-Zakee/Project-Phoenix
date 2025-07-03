@@ -1,0 +1,4 @@
+V009,Hyundai Tucson,65.0,customer,256532451732,2025-05-13,,false,5,Card,Child Seat;GPS
+V002,Honda Accord,60.0,customer1,987654321,2025-05-09,2025-05-12,true,3,Cash,
+V003,BMW X5,100.0,admin1,123456789,2025-05-08,2025-05-18,true,5,None,
+V001,Toyota Camry,50.0,Teshan,3242342342,2025-05-18,2025-05-18,true,34,Card,Child Seat

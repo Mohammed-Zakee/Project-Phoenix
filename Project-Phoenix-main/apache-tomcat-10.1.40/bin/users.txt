@@ -1,0 +1,5 @@
+angel,angel,RegularUser
+abc,abcs,RegularUser
+123,1234,RegularUser
+chamo,chamo,RegularUser
+malindu,abc,RegularUser

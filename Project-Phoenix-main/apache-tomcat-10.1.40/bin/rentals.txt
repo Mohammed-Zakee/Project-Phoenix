@@ -1,0 +1,2 @@
+V005,Honda Civic,45.0,chamo,12345678,2025-05-21,,false,1,Cash,Child Seat;GPS
+V001,Toyota Camry,50.0,malindu,13677,2025-05-24,,false,2,Card,Child Seat;GPS

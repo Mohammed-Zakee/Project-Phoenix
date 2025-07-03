@@ -1,0 +1,13 @@
+UserDataManager.class
+VehicleDataManager.class
+Vehicle.class
+Payment.class
+RentalRecord.class
+Admin.class
+Review.class
+ReviewDataManager.class
+VehicleServlet.class
+User.class
+Addon.class
+RegularUser.class
+AddonDataManager.class
