@@ -1,0 +1,2 @@
+admin,admin1233,Admin
+customer,cust123,RegularUser
